@@ -22,3 +22,5 @@ def get_days_from_today(date: str) -> int | ValueError:
 
 if __name__ == "__main__":
     print(get_days_from_today("2026-07-01"))
+ 
+    print("CHECK_RUN")
